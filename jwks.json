@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "fapi-client-poc-key1",
+      "alg": "RS256",
+      "n": "nJwGX4NShnvpRY2OiD9Csh22iAvTTb6yONmlgHqE64xobs+aISTRx46I39NpmBytjN/W7S7aETH6hthGQteAeE3nUfkwjFqOW8EUKBp2sRTW2MqYq+5/DooBPndlEb167C0Yyz5JJ3P01WikqU1gC4XiQEyFnjKMQBfW19qPr9RBnQeTmFQqTCfzJ2hxABYM/jGW0yizu1xeVy/Z6daxOUWMA99L00FJoi4F4F4gaAkLBrHf+fVyPDBR1g439aOD9BYb+NVyH9X9bCTNlHiCNH0qLLYmJdBxeNAiNwmwqK3Aqe3W506WsmfsEd7ET/8+/I1NOozkq1ZW8PJv2eYcopnzLZ",
+      "e": "AQAB"
+    }
+  ]
+}
